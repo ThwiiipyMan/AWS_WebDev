@@ -1,4 +1,4 @@
-# Web Development Resource Master List
+# AWS Web Development Fundamentals Resource Master List
 
 Welcome to the our resource hub! Here you will find a curated collection of interactive games, documentation, and tools to help you master HTML, CSS, Git, and JavaScript.
 
